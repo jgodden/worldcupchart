@@ -1,0 +1,129 @@
+html { 
+	font: normal 10pt georgia;
+	background: url(images/gradient.jpg) repeat-x;
+} 
+
+body { 
+	font: normal 10pt georgia;
+	padding-left: 0px;
+}
+
+#applet { 
+	border-top: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+} 
+
+.header { 
+	float: left;
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+} 
+
+.floatright { 
+	float: right;
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+} 
+
+.eurochampionssection { 
+	clear: both;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+}
+
+.worldcupchampionssection { 
+	clear: both;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+}
+
+.middlesection { 
+	padding-left: 50px;
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+} 
+
+.footer { 
+	border-top: 0px solid #aad; 
+	border-bottom: 0px solid #aad; 
+	border-left: 0px solid #aad; 
+	border-right: 0px solid #aad; 
+} 
+
+h1 { 
+	font: normal 20pt georgia;
+	color: #5599DD;
+}
+
+h2 { 
+	font: normal 16pt georgia;
+	color: #5599DD;
+}
+
+h3 { 
+	font: normal 12pt georgia;
+	color: #5599DD;
+}
+
+h5 { 
+	font: normal 10pt georgia;
+	color: #5599DD;
+}
+
+h6 { 
+	font: normal 8pt georgia;
+	letter-spacing: 0px;
+	margin-bottom: 0px;
+	color: #5599DD;
+}
+
+.yearhead
+{
+	font: bold 10pt georgia;
+	color: black;
+	text-align: center;
+	height: 5px;
+	width: 80px;
+}
+
+.number
+{
+	font: normal 8pt georgia;
+	text-align: center;
+	height: 5px;
+	width: 80px;
+}
+
+.countryhead
+{
+	font: bold 10pt georgia;
+	color: black;
+	text-align: left;
+	height: 5px;
+	width: 140px;
+}
+
+.country
+{
+	font: normal 8pt georgia;
+	text-align: left;
+	height: 5px;
+	width: 140px;
+}
